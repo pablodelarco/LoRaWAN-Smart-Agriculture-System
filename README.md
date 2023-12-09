@@ -13,7 +13,7 @@ This project showcases my Master's Thesis at Aalto University and EURECOM, focus
 - **Microsoft Azure:** Cloud platform for data processing and analytics.
 - **Node-RED:** Programming tool for wiring together hardware devices, APIs, and online services.
 - **MQTT Protocol:** Lightweight messaging protocol for small sensors and mobile devices.
-- **IoT Sensors:** Various sensors for agricultural data collection.
+- **ChirpStack:** Network server solution, providing essential LoRaWAN network management and connectivity features.
 
 ## Diagrams
 Here you'll find detailed diagrams illustrating the system architecture and data flow, providing a visual understanding of how the components interact.
