@@ -16,7 +16,7 @@ This project showcases my Master's Thesis at Aalto University and EURECOM, focus
 - **ChirpStack:** Network server solution, providing essential LoRaWAN network management and connectivity features.
 
 ## 📈 Diagrams
-<img src="https://github.com/pablodelarco/LoRaWAN-Smart-Agriculture-System/assets/63775967/17e1913e-244f-4f7e-9861-524193606735" width="50%" height="50%">
+<img src="https://github.com/pablodelarco/LoRaWAN-Smart-Agriculture-System/assets/63775967/17e1913e-244f-4f7e-9861-524193606735" width="75%" height="75%">
 
 
 ## License
